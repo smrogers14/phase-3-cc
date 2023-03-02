@@ -1,8 +1,8 @@
 import pytest
 
-from movie import Movie
-from review import Review
-from viewer import Viewer
+from lib.movie import Movie
+from lib.review import Review
+from lib.viewer import Viewer
 
 class TestReview:
     '''Review in review.py'''
